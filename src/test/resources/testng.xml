@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <test name="bb-autotesting">
+        <classes>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingMethod.Air10000_01Test"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingMethod.Air10000Test"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingMethod.Air150000Test"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.AlbertaTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.AlbertaTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.BritishColumbiaTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.BritishColumbiaTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.CanadianCalculator"/>
+            <class name="com.ak_tech.bb.tests.USA.contents.CheckContentsTest"/>
+            <class name="com.ak_tech.bb.tests.email.CheckEmailTest"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingFrom.FromCanadaTest"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingFrom.FromChinaTest"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingFrom.FromGermanyTest"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingFrom.FromJapanTest"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingFrom.FromOtherTest"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingFrom.FromUSATest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.ManitobaTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.ManitobaTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.NewBrunswickTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.NewBrunswickTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.NewfoundlandAdnLabradorTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.NewfoundlandAdnLabradorTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.NorthwestTerritoriesTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.NorthwestTerritoriesTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.NovaScotiaTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.NovaScotiaTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.NunavutTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.NunavutTest"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingMethod.Ocean100000Test"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingMethod.Ocean100001Test"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingMethod.Ocean1000Test"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.OntarioTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.OntarioTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.PrinceEdwardIslandTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.PrinceEdwardIslandTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.QuebecTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.QuebecTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.SaskatchewanTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.SaskatchewanTest"/>
+            <class name="com.ak_tech.bb.tests.TestForTest"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingMethod.Truck100000Test"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.shippingMethod.Truck10000Test"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.yearAssert.YearVehicle1993Test"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.yearAssert.YearVehicle2002Test"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.yearAssert.YearVehicle2018Test"/>
+            <class name="com.ak_tech.bb.tests.USA.vehicle.yearAssert.YearVehicle_enterYear_Test"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Business.province.YukonTest"/>
+            <class name="com.ak_tech.bb.tests.CA.vehicle.Individual.province.YukonTest"/>
+        </classes>
+    </test> <!-- bb-autotesting -->
+</suite> <!-- Default Suite -->
